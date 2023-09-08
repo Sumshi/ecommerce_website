@@ -17,11 +17,12 @@ h1{
 }
   
 body{
-    background-image: url(images/image1.png);
+    background-image: url(images/game.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, .6);
     background-blend-mode:multiply ;
+    background-position: center;
 }
 p{
     color: white;
